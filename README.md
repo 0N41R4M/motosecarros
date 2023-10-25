@@ -5,3 +5,5 @@
 #####lançamentos#####
 ######peças######
 #######vendas e trocas#######
+#######bons preços########
+########opiniões##########
